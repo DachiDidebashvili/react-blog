@@ -1,0 +1,46 @@
+/* Navbar.scss */
+
+$primary-color: #4a90e2;
+$secondary-color: #50e3c2;
+$dark-bg: #1c1c1c;
+$light-bg: #ffffff;
+$text-light: #f5f5f5;
+$text-dark: #222;
+$border-radius: 12px;
+$transition-speed: 0.3s;
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background: linear-gradient(to right, $primary-color, $secondary-color);
+    border-radius: $border-radius;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  
+    a {
+      color: white;
+      text-decoration: none;
+      font-size: 16px;
+      margin: 0 15px;
+      transition: opacity $transition-speed ease-in-out;
+  
+      &:hover {
+        opacity: 0.7;
+      }
+    }
+  
+    .btn-theme, .btn-language {
+      padding: 10px 15px;
+      border: none;
+      background-color: rgba(255, 255, 255, 0.2);
+      color: white;
+      border-radius: $border-radius;
+      cursor: pointer;
+      transition: background-color $transition-speed ease-in-out;
+  
+      &:hover {
+        background-color: rgba(255, 255, 255, 0.4);
+      }
+    }
+  }
