@@ -47,3 +47,10 @@ SCSS - ვიზუალისთვის
 Framer Motion - Smooth ანიმაციებისთვის
 
 Netlify - ჰოსტინგისთვი
+
+![Screenshot 2025-02-06 170004](https://github.com/user-attachments/assets/bbca11fe-ae7e-4bac-a929-6b6d767a20af)
+![Screenshot 2025-02-06 170619](https://github.com/user-attachments/assets/e9033c61-5f4b-447b-b1e7-296bcba5f43d)
+![Screenshot 2025-02-06 170542](https://github.com/user-attachments/assets/79d88cf6-88e8-4528-8dcf-1ff37644adf1)
+![Screenshot 2025-02-06 170524](https://github.com/user-attachments/assets/4d137f71-c2e9-4b17-ae72-a18c33d44de2)
+![Screenshot 2025-02-06 170035](https://github.com/user-attachments/assets/ad4b63dd-87ab-4445-84fd-9231878fb9e1)
+
